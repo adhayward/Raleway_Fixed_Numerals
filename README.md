@@ -4,7 +4,7 @@ UPDATE: Rawline now supports 105 latin languages, including igbo onwu and vietna
 
 Rawline is your beloved Raleway font with lining numerals as default.
 
-![Rawline](https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/banner.jpg)
+![Rawline](https://raw.githubusercontent.com/adhayward/Raleway_Fixed_Numerals/master/banner.jpg)
 
 #HOW TO USE IT
 
